@@ -1,0 +1,38 @@
+body{
+  padding: 25px;
+  background-color:lightgreen; 
+  font-family:"Comic Sans MS";
+}
+.title {
+	color:black;
+	font-style:bold;
+}
+.external {
+  font-size:20px;
+  font-style:italic;
+}
+
+img {
+  border: 10px solid darkmagenta;
+}
+
+.image {
+    width: 200px;
+    margin: 0 auto;
+    transition: width 0.3s ease-in-out;
+}
+
+.image:hover {
+    width: 500px;
+}
+
+.tenor-gif-embed:hover {
+  background-color:yellow;
+}
+section {
+  font-weight:bold;
+}
+
+ul {
+  color:red;
+}
