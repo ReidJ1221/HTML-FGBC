@@ -3,11 +3,6 @@
 
 The **FGBC (Fighting Game Bootcamp)** is for coaching players to improve their skills in fighting games. Has multiple pages like Home, About, Services, and Contact, designed using simple HTML and CSS.
 
-## 🌐 Live Preview
-
-You can view the website live here:  
-👉 [https://reidj1221.github.io/HTML-FGBC](https://reidj1221.github.io/HTML-FGBC)
-
 ## 📁 Project Structure
 
 ```
